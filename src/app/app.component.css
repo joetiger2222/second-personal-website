@@ -57,10 +57,12 @@
 .textContainer>h1{
     font-weight: bolder;
     font-size: 40px;
+    text-align: center;
 }
 .textContainer>h2{
     color: #555555;
     font-size: 35px;
+    text-align: center;
 }
 
 .buttonContainer{
