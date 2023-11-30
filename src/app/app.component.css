@@ -224,6 +224,9 @@
     border-radius: 15px;
     border: 1px solid black;
 }
+.singleProjectContainer>h1{
+    text-align: center;
+}
 .projectButtonsContainer{
     display: flex;
     align-items: center;
